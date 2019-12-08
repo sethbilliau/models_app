@@ -1,0 +1,16 @@
+name: tfcs109a
+dependencies:
+  - python=3.6
+  - tensorflow=2.0.0
+  - jupyter
+  - seaborn
+  - scikit-learn
+  - beautifulsoup4
+  - statsmodels
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - pillow
+  - requests
+  - ipython
